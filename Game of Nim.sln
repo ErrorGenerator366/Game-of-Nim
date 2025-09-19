@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game of Nim", "Game of Nim.csproj", "{A445A50B-4F45-4F04-8444-BBF7DB8305BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A445A50B-4F45-4F04-8444-BBF7DB8305BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A445A50B-4F45-4F04-8444-BBF7DB8305BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A445A50B-4F45-4F04-8444-BBF7DB8305BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A445A50B-4F45-4F04-8444-BBF7DB8305BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCE45E16-A27D-4DB3-A223-4EA89898A43C}
+	EndGlobalSection
+EndGlobal
